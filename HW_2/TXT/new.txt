@@ -1,0 +1,4 @@
+FIO       Liakhavets_Klimentsi_Aleksandrovich
+age       39
+animal    no
+salary    500$
