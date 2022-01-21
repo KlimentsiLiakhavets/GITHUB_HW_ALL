@@ -101,3 +101,5 @@ JSON
  19. Сделать Commit changes (сохранить) изменения на веб интерфейсе.	"changes"
 									Commit changes
  20. Синхронизировать внешний и локальный репозиторий JSON		В Git Bash команда git pull
+ 
+ 
