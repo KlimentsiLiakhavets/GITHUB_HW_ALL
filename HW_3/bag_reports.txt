@@ -12,3 +12,4 @@
 12. Фактический результат	(Actual result)
 13. Ожидаемый результат		(Expected result)
 14. Дополнения			(Additional information)
+
